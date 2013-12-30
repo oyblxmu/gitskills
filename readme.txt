@@ -1,2 +1,2 @@
 Creating a new branch is quick
-modify on branch master
+modify on branch master and feature1
